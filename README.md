@@ -32,8 +32,8 @@ This project examines how changes in the UK electricity generation mix relate to
 
 ## Repository contents
 
-- `report.pdf` – Final knitted report
-- `analysis.Rmd` – Reproducible R Markdown file used to generate the report
+- `final-report.pdf` – Final knitted report
+- `programming_report_uptodate.Rmd` – Reproducible R Markdown file used to generate the report
 
 ---
 
